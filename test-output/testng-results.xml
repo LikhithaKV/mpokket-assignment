@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-04-09T15:50:32 IST" name="Default suite" finished-at="2021-04-09T15:51:07 IST" duration-ms="35166">
+    <groups>
+    </groups>
+    <test started-at="2021-04-09T15:50:32 IST" name="Default test" finished-at="2021-04-09T15:51:07 IST" duration-ms="35166">
+      <class name="com.mpokket.newproject.test.AmazonTestCasesTest">
+        <test-method is-config="true" signature="configBC()[pri:0, instance:com.mpokket.newproject.test.AmazonTestCasesTest@505fc5a4]" started-at="2021-04-09T15:50:32 IST" name="configBC" finished-at="2021-04-09T15:50:35 IST" duration-ms="3003" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:com.mpokket.newproject.test.AmazonTestCasesTest@505fc5a4]" started-at="2021-04-09T15:50:35 IST" name="configBM" finished-at="2021-04-09T15:50:42 IST" duration-ms="7031" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="addProductToCartAndVerify()[pri:0, instance:com.mpokket.newproject.test.AmazonTestCasesTest@505fc5a4]" started-at="2021-04-09T15:50:42 IST" name="addProductToCartAndVerify" finished-at="2021-04-09T15:51:07 IST" duration-ms="25079" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addProductToCartAndVerify -->
+        <test-method is-config="true" signature="configAC()[pri:0, instance:com.mpokket.newproject.test.AmazonTestCasesTest@505fc5a4]" started-at="2021-04-09T15:51:07 IST" name="configAC" finished-at="2021-04-09T15:51:07 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+      </class> <!-- com.mpokket.newproject.test.AmazonTestCasesTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
